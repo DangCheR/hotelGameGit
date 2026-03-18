@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: sprite
+  m_EditorClassIdentifier: 
+  m_GroupName: sprite
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d9e93e913da4b6d46b9a7c83360ff186
+  m_SerializeEntries:
+  - m_GUID: 390a7e9e2cd5dc840b3f276ddbc6d517
+    m_Address: Assets/Study/AnyAsset/horse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ec3682374f8796945b451784f849018c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eb7274aecc2bfa94f8b6e5c58047484e, type: 2}
+    - {fileID: 11400000, guid: 694c42501d9813f4786ff9a513932c6f, type: 2}

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 296825049
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e534d52e8e0650269b50e1f584ce6231
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 173c92049fa4f46ef09f166b73c2eb70
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e534d52e8e0650269b50e1f584ce6231
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Study/AnyAsset/Sphere.prefab
+Dependencies:
+- D:/DeskTop/unityP/Hotel Game/AssetBundles/ForPC/material

@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 118399550
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model
+      Dependencies:
+        Dependency_0: material
+    Info_1:
+      Name: sprite
+      Dependencies: {}
+    Info_2:
+      Name: material
+      Dependencies: {}
